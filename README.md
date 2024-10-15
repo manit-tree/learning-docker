@@ -61,6 +61,8 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/f9193704-47b7-4595-a16f-12d6e813724b)
 
+6. Refresh browser to see the changes
+
 ## Container Networking
 
 ![image](https://github.com/user-attachments/assets/af423e23-4c4f-4d29-a113-77b2a596d3a0)
@@ -100,4 +102,4 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 
 
-6. Refresh browser to see the changes
+
