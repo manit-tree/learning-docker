@@ -81,6 +81,23 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/e654e23f-c4e3-4ea1-8d01-5410a51b37d5)
 
+## Working with Docker Images
+
+![image](https://github.com/user-attachments/assets/c7459820-76e8-4b0d-a0cb-8d4042f52c11)
+
+![image](https://github.com/user-attachments/assets/b46793c6-e130-4840-a44f-63415f1f05b3)
+
+![image](https://github.com/user-attachments/assets/a687c02c-43b3-4fd4-8c82-ca02730224b8)
+
+![image](https://github.com/user-attachments/assets/a0ec83db-bda6-4877-a5e8-59c328811a02)
+
+![image](https://github.com/user-attachments/assets/dafa32a0-718f-491c-b3f5-d59a69b73ed3)
+
+![image](https://github.com/user-attachments/assets/6fd0bf5e-c52e-4dbb-b116-906b40048cd9)
+
+
+
+
 
 
 6. Refresh browser to see the changes
