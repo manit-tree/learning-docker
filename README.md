@@ -43,10 +43,18 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ## Practical Example : Running an Apache Container
 
+1. Pull the image
+
 ![image](https://github.com/user-attachments/assets/698b6fde-3dfe-425b-8bed-2768211b4cb8)
+
+2. Run the container
 
 ![image](https://github.com/user-attachments/assets/935736c8-23ac-4c70-b974-6eae0fff5a8f)
 
+3. Verify it's running
+
 ![image](https://github.com/user-attachments/assets/a22fb27a-784f-4196-bb20-9bac20d21588)
 
+4. Access http://localhost:8080 on web browser
 
+5. Modify the default page
