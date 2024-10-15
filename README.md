@@ -61,4 +61,26 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/f9193704-47b7-4595-a16f-12d6e813724b)
 
+## Container Networking
+
+![image](https://github.com/user-attachments/assets/af423e23-4c4f-4d29-a113-77b2a596d3a0)
+
+![image](https://github.com/user-attachments/assets/2be0dca1-39e7-48aa-9228-f82caaa59799)
+
+![image](https://github.com/user-attachments/assets/569adc3d-7552-4c66-a34b-b1d9389e80d2)
+
+## Data Persistence with Volumes
+
+![image](https://github.com/user-attachments/assets/78746d82-8b13-4773-8bfc-fe5c6626454d)
+
+![image](https://github.com/user-attachments/assets/7bf7dac4-8d03-4cb2-b63b-34b0d8570f49)
+
+## Cleaning Up
+
+![image](https://github.com/user-attachments/assets/c6cb30ed-7678-4543-a6ca-8bfba89eccda)
+
+![image](https://github.com/user-attachments/assets/e654e23f-c4e3-4ea1-8d01-5410a51b37d5)
+
+
+
 6. Refresh browser to see the changes
