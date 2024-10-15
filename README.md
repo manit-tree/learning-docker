@@ -41,3 +41,12 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/142c2480-9e54-4dfd-b7e6-55a8288f8ef8)
 
+## Practical Example : Running an Apache Container
+
+![image](https://github.com/user-attachments/assets/698b6fde-3dfe-425b-8bed-2768211b4cb8)
+
+![image](https://github.com/user-attachments/assets/935736c8-23ac-4c70-b974-6eae0fff5a8f)
+
+![image](https://github.com/user-attachments/assets/a22fb27a-784f-4196-bb20-9bac20d21588)
+
+
