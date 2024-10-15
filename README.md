@@ -58,3 +58,7 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 4. Access http://localhost:8080 on web browser
 
 5. Modify the default page
+
+![image](https://github.com/user-attachments/assets/f9193704-47b7-4595-a16f-12d6e813724b)
+
+6. Refresh browser to see the changes
