@@ -97,6 +97,16 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/6fd0bf5e-c52e-4dbb-b116-906b40048cd9)
 
+## Building custom images
+
+1. Create a file named Dockerfile with no extension.
+
+![image](https://github.com/user-attachments/assets/cbe6ce3c-c6d2-4098-b9ad-282102120dd8)
+
+2. Build the image
+
+![image](https://github.com/user-attachments/assets/0737c93e-3089-4a8c-ac4d-175b1716623d)
+
 
 
 
