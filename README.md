@@ -107,6 +107,12 @@ in Docker Desktop, go to image tab, you should see new Docker Image your just cr
 
 ![image](https://github.com/user-attachments/assets/0737c93e-3089-4a8c-ac4d-175b1716623d)
 
+## Multi stage Builds
+
+Multi-stage builds allow you to use multiple FROM statements in your Dockerfile. This is useful for creating smaller production images.
+
+![image](https://github.com/user-attachments/assets/fbcbc175-face-4e65-bcf2-9408082f8fa9)
+
 
 
 
